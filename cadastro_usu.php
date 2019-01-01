@@ -43,7 +43,7 @@
       </div>
       
         <button type="submit" class="btn btn-primary">Salvar</button>
-        <a href="../index.php" class="btn btn-primary">voltar</a>
+        <a href="../index.php" class="btn btn-primary">Voltar</a>
     
     </form>
 
